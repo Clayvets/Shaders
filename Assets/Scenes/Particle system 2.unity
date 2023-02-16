@@ -530,7 +530,7 @@ PrefabInstance:
     - target: {fileID: 5896457640404173557, guid: 219fbb669cc7f584f9ce5fd430ac08a4,
         type: 3}
       propertyPath: m_Name
-      value: SingleBlob
+      value: Rayo
       objectReference: {fileID: 0}
     - target: {fileID: 5896457640404173558, guid: 219fbb669cc7f584f9ce5fd430ac08a4,
         type: 3}
